@@ -7,10 +7,10 @@ https://www.figma.com/file/Re0YGkqjN9gObGN5c77Bn7/Data-Science?type=whiteboard&n
 Sections:
 ## 100 Most Common Interview Questions - DataInterview.com
 Applied Statistics\
-Machine Learning
-Business/Product Case
-SQL
-Coding
+Machine Learning\
+Business/Product Case\
+SQL\
+Coding\
 Leadership & Behavioral
 
 ## Case Studies
