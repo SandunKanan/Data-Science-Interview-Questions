@@ -1,6 +1,7 @@
-# Data-Science-Interview-Questions
+# Data Science Interview Questions
+Bank of Interview Questions and Answers for Data Science related roles
 
-Concept Map of Data Science Concepts:
+### Concept Map of Data Science Concepts:
 https://www.figma.com/file/Re0YGkqjN9gObGN5c77Bn7/Data-Science?type=whiteboard&node-id=0%3A1&t=ULfIexleAMxh5PGf-1
 
 Sections:
